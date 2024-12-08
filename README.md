@@ -7,12 +7,6 @@ As usual, this tutorial comes with the complete source codes for free; you only 
 
 ---
 
-## 📂 GitHub Source  
-
-**[Responsive Pricing Table with Animation](#)**  
-
----
-
 ## 🌟 Features  
 
 This pricing table comes with several unique and practical features:  
